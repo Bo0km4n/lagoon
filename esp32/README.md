@@ -7,3 +7,4 @@
 5. Open Tools => Board Manager
 6. Enter `esp32` to search form
 7. Install esp32 module: maybe take a long time 
+8. Select Board manager `ESP32 Dev Module`
